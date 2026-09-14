@@ -1,0 +1,6 @@
+{
+  "name": "Taj Villa Guest House",
+  "description": "Official booking and room availability tracking application for Taj Villa Guest House in F-10 Islamabad with real-time reservation notifications, admin dashboard, and secure payment options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
